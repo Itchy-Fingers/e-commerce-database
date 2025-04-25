@@ -16,7 +16,7 @@ This project is a fully relational, scalable database schema designed to support
 
 # ER Diagram
 
-> ![ER Diagram](./path-to-diagram/ecommerce-er-diagram.png)
+> ![ER Diagram](https://github.com/Itchy-Fingers/e-commerce-database/blob/main/ecommerce.jpg)
 
 
 # Sample Features
